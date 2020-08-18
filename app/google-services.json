@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1041083540369",
+    "firebase_url": "https://journal-erbe.firebaseio.com",
+    "project_id": "journal-erbe",
+    "storage_bucket": "journal-erbe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041083540369:android:23c16fa48281bc0d24b030",
+        "android_client_info": {
+          "package_name": "com.erbe.journal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1041083540369-lc10u3lpbgj8gv3ard8esq5207c9nbh1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.erbe.journal",
+            "certificate_hash": "6a0ae460ac96c7cb41458a47c7a99296fcd196fb"
+          }
+        },
+        {
+          "client_id": "1041083540369-6qf3kpvig4uckqk49u0fntoamccnlhnf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHGiWyEg_eivgatCTornOJnzBadBwtEIE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1041083540369-6qf3kpvig4uckqk49u0fntoamccnlhnf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
